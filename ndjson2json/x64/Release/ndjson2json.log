@@ -1,0 +1,8 @@
+﻿  ndjson2json_1.cpp
+d:\yjlee\source\vs2017\mine\ndjson2json\ndjson2json\ndjson2json_1.cpp(28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  10 of 301 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    57 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ndjson2json.vcxproj -> D:\yjlee\source\VS2017\mine\ndjson2json\x64\Release\ndjson2json.exe
